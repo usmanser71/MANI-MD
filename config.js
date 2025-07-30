@@ -50,7 +50,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "923351300389",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "𓆩𝐔𝐒𝐌𝐀𝐍 𝐒𝐄𝐑𓆪",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "© POWERED BY MAN-MD⎯꯭̽💀",
+DESCRIPTION: process.env.DESCRIPTION || "© POWERED BY MANI-MD⎯꯭̽💀",
 // add bot desp name    
 LIVE_MSG: process.env.LIVE_MSG || "HEY IM ALIVE",
 // add alive msg here 
